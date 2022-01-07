@@ -3,8 +3,7 @@
         "pid": "0x0001",
         "vid": "0x46f4",
         "sn": "1234XXX123",
-        "mac1": "BE:1B:EA:B3:A0:6E",
-      "timeout": "2"
+        "mac1": "BE:1B:EA:B3:A0:6E"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
